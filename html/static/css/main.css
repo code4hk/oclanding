@@ -40,8 +40,8 @@ body{
 ul{
 	text-align: center;
 }
-
 	li{
+		cursor: pointer; cursor: hand;
 		width:95px;
 		height:82px;
 		padding-top:76px;
