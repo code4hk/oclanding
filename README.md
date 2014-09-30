@@ -3,7 +3,6 @@ OC Landing Page
 - photoshop mockup provided at `main.psd`
 - static page in `html/`
 
-
 develop note
 ------------
 - using google font on chinese char.
